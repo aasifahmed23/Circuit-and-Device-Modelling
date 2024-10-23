@@ -1,5 +1,4 @@
-# VLSI
-This a model of a Dual Material Gate(DMG) - Silicon on Insulator(SOI) MOSFET using Matlab.
+# This a model of a Dual Material Gate(DMG) - Silicon on Insulator(SOI) MOSFET using Matlab.
 
 # Dependencies:
 Function: phi_x.m
